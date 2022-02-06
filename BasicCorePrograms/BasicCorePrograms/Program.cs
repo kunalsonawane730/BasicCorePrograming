@@ -11,8 +11,14 @@ Console.WriteLine("Hello, World!");
 //HarmonicNumber number = new HarmonicNumber();
 //number.FindHarmonicNumber();
 
-LargestNumber largest = new LargestNumber();
-largest.FindLargestNumber();
+//LargestNumber largest = new LargestNumber();
+//largest.FindLargestNumber();
 
-LeapYear find = new LeapYear();
-find.FindLeapYear();
+//LeapYear find = new LeapYear();
+//find.FindLeapYear();
+
+PowerofTwo powertwo = new PowerofTwo();
+powertwo.FindPowerofTwo();
+
+PrimeFactor prime = new PrimeFactor();
+prime.FindPrimeFactor();
