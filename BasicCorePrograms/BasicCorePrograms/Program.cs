@@ -23,5 +23,8 @@ Console.WriteLine("Hello, World!");
 //PrimeFactor prime = new PrimeFactor();
 //prime.FindPrimeFactor();
 
-QuotientandRemainder quotientandRemainder = new QuotientandRemainder();
-quotientandRemainder.CalculateQuotientandRemainder();
+//QuotientandRemainder quotientandRemainder = new QuotientandRemainder();
+//quotientandRemainder.CalculateQuotientandRemainder();
+
+SwapTwoNumbers swap = new SwapTwoNumbers();
+swap.DoSwapTwoNumbers();
