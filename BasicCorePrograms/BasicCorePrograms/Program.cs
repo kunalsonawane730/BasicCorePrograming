@@ -4,3 +4,6 @@ Console.WriteLine("Hello, World!");
 
 EvenorOdd evenodd = new EvenorOdd();
 evenodd.CheckEvenorOdd();
+
+FlipCoin percent = new FlipCoin();
+percent.FlipCoinPercentage();
