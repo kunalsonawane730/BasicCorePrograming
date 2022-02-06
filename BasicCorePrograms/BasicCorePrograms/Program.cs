@@ -13,3 +13,6 @@ Console.WriteLine("Hello, World!");
 
 LargestNumber largest = new LargestNumber();
 largest.FindLargestNumber();
+
+LeapYear find = new LeapYear();
+find.FindLeapYear();
