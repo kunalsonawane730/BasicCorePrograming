@@ -7,3 +7,6 @@ evenodd.CheckEvenorOdd();
 
 FlipCoin percent = new FlipCoin();
 percent.FlipCoinPercentage();
+
+HarmonicNumber number = new HarmonicNumber();
+number.FindHarmonicNumber();
