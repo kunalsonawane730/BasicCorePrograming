@@ -17,8 +17,11 @@ Console.WriteLine("Hello, World!");
 //LeapYear find = new LeapYear();
 //find.FindLeapYear();
 
-PowerofTwo powertwo = new PowerofTwo();
-powertwo.FindPowerofTwo();
+//PowerofTwo powertwo = new PowerofTwo();
+//powertwo.FindPowerofTwo();
 
-PrimeFactor prime = new PrimeFactor();
-prime.FindPrimeFactor();
+//PrimeFactor prime = new PrimeFactor();
+//prime.FindPrimeFactor();
+
+QuotientandRemainder quotientandRemainder = new QuotientandRemainder();
+quotientandRemainder.CalculateQuotientandRemainder();
