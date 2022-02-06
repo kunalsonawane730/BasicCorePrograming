@@ -26,5 +26,8 @@ Console.WriteLine("Hello, World!");
 //QuotientandRemainder quotientandRemainder = new QuotientandRemainder();
 //quotientandRemainder.CalculateQuotientandRemainder();
 
-SwapTwoNumbers swap = new SwapTwoNumbers();
-swap.DoSwapTwoNumbers();
+//SwapTwoNumbers swap = new SwapTwoNumbers();
+//swap.DoSwapTwoNumbers();
+
+VowelOrConstant vowelconstant = new VowelOrConstant();
+vowelconstant.FindVowelOrConstant();
